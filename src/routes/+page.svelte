@@ -19,17 +19,15 @@
 		<div class="business">
 			<h1>Business services</h1>
 			<p>
-				LAb consequuntur cumque distinctio excepturi fuga iure laudantium molestias quidem ratione
-				saepe sint, tempore temporibus tenetur ullam!
-			</p>
+				Fire safety equipment is crucial for businesses to protect employees, customers, and assets
+				from fire-related incidents.</p>
 			<button on:click={handleBusinessClick}>Business</button>
 		</div>
 		<div class="marine">
 			<h1>Marine services</h1>
 			<p>
-				Ab consequuntur cumque distinctio excepturi fuga iure laudantium molestias quidem ratione
-				saepe sint, tempore temporibus tenetur ullam!
-			</p>
+				Fire safety on boats is essential to protect lives and property, especially given the unique
+				challenges posed by a marine environment.</p>
 			<button on:click={handleMarineClick}>Marine</button>
 		</div>
 	</div>

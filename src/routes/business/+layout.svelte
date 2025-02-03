@@ -11,20 +11,22 @@
 </main>
 
 <style>
-    *, *::before, *::after {
-        box-sizing: border-box;
-    }
 
-    main {
-        /*max-width: 1200px;*/
-        margin: 0 auto;
-        width: 80%;
-    }
+    /**, *::before, *::after {*/
+    /*    box-sizing: border-box;*/
+    /*    background-color: #010101;*/
+    /*}*/
 
-    :global(html) {
-        overflow-y: scroll;
-        /*background: #F8F0E3;*/
-        font-family: 'Golos Text', sans-serif;
-    }
+    /*main {*/
+    /*    !*max-width: 1200px;*!*/
+    /*    margin: 0 auto;*/
+    /*    width: 80%;*/
+    /*}*/
+
+    /*:global(html) {*/
+    /*    overflow-y: scroll;*/
+    /*    !*background: #F8F0E3;*!*/
+    /*    font-family: 'Golos Text', sans-serif;*/
+    /*}*/
 
 </style>
